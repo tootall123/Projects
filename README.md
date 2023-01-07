@@ -1,6 +1,6 @@
 #PROJECTS
 
-Personal/School development projects: BASH Scripts(fun scripts, workflow, utilities, tools), Web Dev, Python tools and more. 
+Personal/School/Interests Projects: BASH Scripts(fun scripts, workflow, utilities, tools), Web Dev, Python tools and more. 
 
 
 
